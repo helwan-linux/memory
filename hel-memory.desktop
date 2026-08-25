@@ -1,8 +1,8 @@
 [Desktop Entry]
 Type=Application
-Name=Helwan Memory Game
-Comment=A spicy memory match game built for Helwan Linux
-Exec=python3 /usr/share/helwan-games/memory/Memory.py
+Name=Helwan Memory
+Comment=Ultimate memory game for Helwan Linux
+Exec=hel-memory
 Icon=hel-memory
-Categories=Game;LogicGame;
 Terminal=false
+Categories=Game;LogicGame;
